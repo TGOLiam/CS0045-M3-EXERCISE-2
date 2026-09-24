@@ -29,7 +29,3 @@ Interactive burst studio featuring square, diamond, and triangle patterns with t
 ![Machine Problem 3 — Dynamic Fireworks](mp3_dynamic_fireworks.gif)
 
 Source: [m3.cpp](m3.cpp)
-
-## Documentation
-
-The completed laboratory manual will be available as `m3hjtopengl_completed.pdf` after upload.
